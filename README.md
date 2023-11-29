@@ -8,5 +8,4 @@
 - Desenvolvimento Web: HTML, CSS, JavaScript
 - Frameworks: React, Node.js
 - Banco de Dados: SQLite
-- Estudando :
--   Git, TypeScript
+- Estudando : Git, TypeScript
