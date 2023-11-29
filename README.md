@@ -3,7 +3,7 @@
 - 🎓 Estudante em Engenharia de Software
 - 💼 Estou em busca de uma oportunidade na área de desenvolvimento
 
-### Principais Tecnologias e Habilidades Que Tenho Conhecimento
+### Principais Tecnologias
 
 - Desenvolvimento Web: HTML, CSS, JavaScript
 - Frameworks: React, Node.js
