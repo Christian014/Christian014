@@ -11,7 +11,7 @@
 - Estudando : Git, TypeScript
 
 ### Conecte-se Comigo
-Linkedin: [Christian-lopes-rafael](https://www.linkedin.com/in/christian-lopes-rafael/)
+Linkedin: https://www.linkedin.com/in/christian-lopes-rafael/
 
 ### Portfolio Oficial
 ...Em breve virá algo legal !!!
