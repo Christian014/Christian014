@@ -9,3 +9,6 @@
 - Frameworks: React, Node.js
 - Banco de Dados: SQLite
 - Estudando : Git, TypeScript
+
+### Conecte-se Comigo
+[Christian-lopes-rafael](https://www.linkedin.com/in/christian-lopes-rafael/)
