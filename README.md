@@ -1,7 +1,7 @@
 - 👋 Olá, Eu Sou o @Christian014
 - 🚀 Desenvolvedor de Software | 🌐 Apaixonado por Tecnologia
 - 🎓 Estudante em Engenharia de Software
-- 💼 Atualmente Não trabalhando como Dev Mas não vejo a hora de chegar minha oportunidade
+- 💼 Estou em busca de uma oportunidade na área de desenvolvimento
 
 ### Principais Tecnologias e Habilidades Que Tenho Conhecimento
 
