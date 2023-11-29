@@ -11,4 +11,4 @@
 - Estudando : Git, TypeScript
 
 ### Conecte-se Comigo
-[Christian-lopes-rafael](https://www.linkedin.com/in/christian-lopes-rafael/)
+Linkedin: [Christian-lopes-rafael](https://www.linkedin.com/in/christian-lopes-rafael/)
