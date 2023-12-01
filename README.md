@@ -9,8 +9,8 @@
 - Frameworks: React, Node.js
 - Banco de Dados: SQLite
 - Estudando : Git, TypeScript
-(![image](https://github.com/Christian014/Christian014/assets/129335066/cd10c632-d717-40c0-ba0e-ab6d5f70ee08)
-)
+[image](https://github.com/Christian014/Christian014/assets/129335066/cd10c632-d717-40c0-ba0e-ab6d5f70ee08)
+
 ### Conecte-se Comigo
 Linkedin: https://www.linkedin.com/in/christian-lopes-rafael/
 
