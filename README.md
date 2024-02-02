@@ -8,7 +8,7 @@
 - Desenvolvimento Web: HTML, CSS, JavaScript
 - Frameworks: React, Node.js
 - Banco de Dados: SQLite
-- Estudando : Git, TypeScript
+- Estudando : Git, TypeScript, C#
 
 ### Conecte-se Comigo
 Linkedin: https://www.linkedin.com/in/christian-lopes-rafael/
